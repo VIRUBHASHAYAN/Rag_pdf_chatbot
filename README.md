@@ -15,7 +15,7 @@ that answers user questions based on a PDF document.
 - LangChain
 - HuggingFace Embeddings
 - Vector Store
-- Grok api
+- Groq api
 
 ## How It Works
 1. Load PDF
